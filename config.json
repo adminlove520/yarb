@@ -11,7 +11,7 @@
             "filename": "CustomRSS.opml"
         },
         "CyberSecurityRSS": {
-            "enabled": true,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/zer0yu/CyberSecurityRSS/master/CyberSecurityRSS.opml",
             "filename": "CyberSecurityRSS.opml"
         },
@@ -26,7 +26,7 @@
             "filename": "Chinese-Security-RSS.opml"
         },
         "awesome-security-feed": {
-            "enabled": true,
+            "enabled": false,
             "url": "https://raw.githubusercontent.com/mrtouch93/awesome-security-feed/main/security_feeds.opml",
             "filename": "awesome-security-feed.opml"
         },
@@ -51,12 +51,12 @@
         "wecom": {
             "enabled": false,
             "secrets": "WECOM_KEY",
-            "key": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+            "key": "debb0290-c14b-4af2-b74d-5aae6179e097"
         },
         "dingtalk": {
-            "enabled": false,
+            "enabled": true,
             "secrets": "DINGTALK_KEY",
-            "key": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+            "key": "95276f81da6af5ad976ecda4c9743887a15cc1fed3b4e82ecd44837ca9e46e43"
         },
         "qq": {
             "enabled": false,
