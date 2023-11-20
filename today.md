@@ -1,36 +1,38 @@
 # 每日安全资讯（2023-11-20）
 
-- 先知安全技术社区
-  - [V8漏洞CVE-2018-17463分析与复现](https://xz.aliyun.com/t/13075)
-  - [TLS_bypass_Canary](https://xz.aliyun.com/t/13074)
-  - [浅谈Python原型链污染及利用方式](https://xz.aliyun.com/t/13072)
+- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
+  - [盘点2023年与游戏相关的网络威胁（下）](https://www.4hou.com/posts/lklJ)
+  - [如何阻止黑客利用iPhone 13窃取三星Galaxy的加密密钥](https://www.4hou.com/posts/6xl7)
+- SecWiki News
+  - [SecWiki News 2023-11-19 Review](http://www.sec-wiki.com/?2023-11-19)
 - 奇客Solidot–传递最新科技情报
   - [Inkscape 庆祝诞生 20 周年](https://www.solidot.org/story?sid=76662)
   - [海葵被发现具有向日性](https://www.solidot.org/story?sid=76661)
   - [小行星将在 12 月 12 日从参宿四前方飞过](https://www.solidot.org/story?sid=76660)
-- 嘶吼 RoarTalk – 网络安全行业综合服务平台,4hou.com
-  - [盘点2023年与游戏相关的网络威胁（下）](https://www.4hou.com/posts/lklJ)
-  - [如何阻止黑客利用iPhone 13窃取三星Galaxy的加密密钥](https://www.4hou.com/posts/6xl7)
+- 先知安全技术社区
+  - [V8漏洞CVE-2018-17463分析与复现](https://xz.aliyun.com/t/13075)
+  - [TLS_bypass_Canary](https://xz.aliyun.com/t/13074)
+  - [浅谈Python原型链污染及利用方式](https://xz.aliyun.com/t/13072)
 - 专注APT攻击与防御
   - [论网络安全异化（行业）](https://micropoor.blogspot.com/2023/11/blog-post_19.html)
-- 天御攻防实验室
-  - [藏不住了！勒索软件团伙向监管举报甲方](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485141&idx=1&sn=b9cb63823c4d64657612f50c98deadc6&chksm=fb04c5bdcc734cab56a2070fc3b32fd23c6211e7418ca8ef83c0a9aebd6310ccdf737285fe67&scene=58&subscene=0#rd)
 - 看雪学苑
   - [【远控木马】银狐组织最新木马样本-分析](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528787&idx=1&sn=947b0b7f9ade1cbf249f29ee345237e3&chksm=b18d1c9986fa958f377b1b14f33c060ed7495b3d2e9cb7b33f5c4d41686093b31fed10be1735&scene=58&subscene=0#rd)
   - [CTF训练营之Web篇](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458528787&idx=2&sn=113d5c21a4e165a96690bcf94fce0ad9&chksm=b18d1c9986fa958f49768bd9660ebd8c100dd21eeb6e3d607ec36534666aca166b7b49590b7f&scene=58&subscene=0#rd)
-- 极客公园
-  - [蔚来联合创始人：不会也不可能倒闭；传特斯拉中国版 FSD 已准备就绪；《沙丘 2》改档至明年 3 月 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021862&idx=1&sn=0def8869262fb4016a33c89fed66b10d&chksm=7e549b1049231206c8d23c0ab8d35d470b1645a70d7584bd8a3a7afc2922a7d310dfbfd2a57a&scene=58&subscene=0#rd)
-- 黑哥虾撩
-  - ["Operation Triangulation" 卡巴斯基被黑 - 续](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484094&idx=1&sn=938ec5464fe62abb7fbeba906585aa2c&chksm=c050c8cff72741d9d24284d79f3b6714b66b7e9abb41726a7c683f972bb5471dbb2c293b1826&scene=58&subscene=0#rd)
+- 我的安全梦
+  - [漏洞应急响应交流群](https://mp.weixin.qq.com/s?__biz=MzU3NDY1NTYyOQ==&mid=2247485818&idx=1&sn=09853feca33cafa8049c73707a6c02d3&chksm=fd2e5498ca59dd8ebbab6477fedea45781dbe1eebf63ef25ef56bd611e2eb2977f3c4af241cc&scene=58&subscene=0#rd)
 - 云鼎实验室
   - [每周云安全资讯-2023年第47周](https://mp.weixin.qq.com/s?__biz=MzU3ODAyMjg4OQ==&mid=2247495015&idx=1&sn=166acaff2a4f4e8996457e41dfe39b59&chksm=fd7911e1ca0e98f7d15107e29cbf13d814728ad1dfcc9dd3179614bbd296ef83d2754a77f0d9&scene=58&subscene=0#rd)
+- 黑哥虾撩
+  - ["Operation Triangulation" 卡巴斯基被黑 - 续](https://mp.weixin.qq.com/s?__biz=Mzg5OTU1NTEwMg==&mid=2247484094&idx=1&sn=938ec5464fe62abb7fbeba906585aa2c&chksm=c050c8cff72741d9d24284d79f3b6714b66b7e9abb41726a7c683f972bb5471dbb2c293b1826&scene=58&subscene=0#rd)
+- 极客公园
+  - [蔚来联合创始人：不会也不可能倒闭；传特斯拉中国版 FSD 已准备就绪；《沙丘 2》改档至明年 3 月 | 极客早知道](https://mp.weixin.qq.com/s?__biz=MTMwNDMwODQ0MQ==&mid=2653021862&idx=1&sn=0def8869262fb4016a33c89fed66b10d&chksm=7e549b1049231206c8d23c0ab8d35d470b1645a70d7584bd8a3a7afc2922a7d310dfbfd2a57a&scene=58&subscene=0#rd)
 - 嘶吼专业版
   - [如何阻止黑客利用iPhone 13窃取三星Galaxy的加密密钥](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571290&idx=1&sn=2033f4efa7e462397abea25f6f8acf80&chksm=e9140760de638e76e200ed3debf4707969964ce1e454e03273e03bfbd7b669091d87ad4bc598&scene=58&subscene=0#rd)
   - [盘点2023年与游戏相关的网络威胁（下）](https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247571290&idx=2&sn=30613b58a5e1e32c91cf5455e174785e&chksm=e9140760de638e762689c16b2cb9b2358c258d398be6578757725bf936d0a8086c86348cb839&scene=58&subscene=0#rd)
-- 我的安全梦
-  - [漏洞应急响应交流群](https://mp.weixin.qq.com/s?__biz=MzU3NDY1NTYyOQ==&mid=2247485818&idx=1&sn=09853feca33cafa8049c73707a6c02d3&chksm=fd2e5498ca59dd8ebbab6477fedea45781dbe1eebf63ef25ef56bd611e2eb2977f3c4af241cc&scene=58&subscene=0#rd)
-- Desync InfoSec
-  - [第十一课 收集威胁情报数据源——外部数据集（二）](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247487049&idx=1&sn=136e205b2aceb8d3a9fe0ad78aee7e3c&chksm=c27f7de7f508f4f1033528d0bd20e6210512b29b58b6e3ed1510804cb8df6675d9f618829482&scene=58&subscene=0#rd)
+- 天御攻防实验室
+  - [藏不住了！勒索软件团伙向监管举报甲方](https://mp.weixin.qq.com/s?__biz=MzU0MzgyMzM2Nw==&mid=2247485141&idx=1&sn=b9cb63823c4d64657612f50c98deadc6&chksm=fb04c5bdcc734cab56a2070fc3b32fd23c6211e7418ca8ef83c0a9aebd6310ccdf737285fe67&scene=58&subscene=0#rd)
 - 黑伞安全
   - [还是狠炸裂的！Chromium libxslt XXE漏洞（CVE-2023-435）](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488317&idx=1&sn=5ef9fd277c1f354a7910b1413f075174&chksm=fb029e65cc751773d44bec5f0710340b1f72ea51ae74a14752fa9f5ac5e598a70105bffbea0e&scene=58&subscene=0#rd)
   - [【已复现】金蝶云星空ScpSupRegHandler任意文件上传漏洞](https://mp.weixin.qq.com/s?__biz=MzU0MzkzOTYzOQ==&mid=2247488317&idx=2&sn=7d9d87eb0cb5c5f8aceded9c79950dc3&chksm=fb029e65cc7517733b40b28c2542b91f14824dd3b58a83b6d48173a920ebfe4311d3b0045899&scene=58&subscene=0#rd)
+- Desync InfoSec
+  - [第十一课 收集威胁情报数据源——外部数据集（二）](https://mp.weixin.qq.com/s?__biz=MzkzMDE3ODc1Mw==&mid=2247487049&idx=1&sn=136e205b2aceb8d3a9fe0ad78aee7e3c&chksm=c27f7de7f508f4f1033528d0bd20e6210512b29b58b6e3ed1510804cb8df6675d9f618829482&scene=58&subscene=0#rd)
